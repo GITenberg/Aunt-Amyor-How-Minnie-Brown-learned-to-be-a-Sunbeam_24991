@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28326
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Wise_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24991#Aunt-Amyor-How-Minnie-Brown-learned-to-be-a-Sunbeam
 gutenberg_issued: '2008-04-05'
 gutenberg_type: Text
 identifiers:
